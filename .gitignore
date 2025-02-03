@@ -1,0 +1,8 @@
+.DS_Store
+*.bkp
+*.dtmp
+manuscript/resources/rag.webp
+*.pdf
+code/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+manuscript/old/ch05-1
+manuscript/old/ch05-1.md
