@@ -518,6 +518,64 @@ You will **hear a sentence** and must **type it exactly as spoken**. This tests 
 - Missing articles and small words.
 - Spelling errors due to fast typing.
 
+### Practice Questions 
+
+The Audio clips are available [here]()
+
+#### Answer
+
+1. She went to the library to borrow a book.  
+2. The weather today is perfect for a picnic.  
+3. They traveled to Paris for their honeymoon.  
+4. He enjoys playing the guitar in his free time.  
+5. The scientist discovered a new planet.  
+6. She baked a delicious chocolate cake.  
+7. The conference will take place next Monday.  
+8. He was promoted to manager last month.  
+9. They watched a fascinating documentary about space.  
+10. The child built a sandcastle on the beach.  
+11. We need to submit the report by tomorrow.  
+12. She bought a beautiful dress for the party.  
+13. The teacher explained the lesson very well.  
+14. They are planning a road trip across the country.  
+15. The cat was sleeping on the sofa.  
+16. The museum had an exhibition of ancient artifacts.  
+17. She enjoys painting landscapes in her spare time.  
+18. The sun is shining brightly today.  
+19. He ordered a cup of coffee and a sandwich.  
+20. They found a hidden treasure in the cave.  
+21. She received a scholarship for her studies.  
+22. The hotel had a spectacular view of the ocean.  
+23. He fixed the broken chair in the living room.  
+24. The baby was laughing joyfully.  
+25. We visited a famous castle during our trip.  
+26. The students prepared for the final exam.  
+27. She wrote a heartfelt letter to her friend.  
+28. They planted flowers in the garden.  
+29. The restaurant serves the best pizza in town.  
+30. He lost his phone at the shopping mall.  
+31. The dog was barking loudly at the stranger.  
+32. She danced gracefully at the performance.  
+33. The airplane landed safely at the airport.  
+34. They built a new bridge over the river.  
+35. The doctor advised him to rest for a few days.  
+36. She found an interesting book at the library.  
+37. The mountain was covered with snow.  
+38. He completed the marathon in under four hours.  
+39. The artist painted a beautiful portrait.  
+40. She gave an inspiring speech at the event.  
+41. They watched the fireworks from the rooftop.  
+42. The river flows gently through the valley.  
+43. He was reading a novel by his favorite author.  
+44. She attended a yoga class in the morning.  
+45. The bakery sells freshly baked bread every day.  
+46. He discovered a shortcut to his office.  
+47. The football team won the championship.  
+48. She enjoyed the concert with her friends.  
+49. The hotel offers excellent customer service.  
+50. They visited a zoo and saw many exotic animals.  
+
+
 ---
 
 ## 5. Write About the Photo
@@ -582,6 +640,8 @@ You will see a **picture** and must write a **short description** of at least **
 - Relying solely on memory without considering context.
 - Writing overly simplistic descriptions.
 - Ignoring details in the image.
+
+
 
 ---
 
@@ -847,62 +907,7 @@ You will hear a **spoken question or statement** and must **respond aloud in com
 - Relying solely on memory without considering context.
 - Giving one-word responses.
 
-### Practice Questions 
 
-The Audio clips are available [here]()
-
-#### Answer
-
-1. She went to the library to borrow a book.  
-2. The weather today is perfect for a picnic.  
-3. They traveled to Paris for their honeymoon.  
-4. He enjoys playing the guitar in his free time.  
-5. The scientist discovered a new planet.  
-6. She baked a delicious chocolate cake.  
-7. The conference will take place next Monday.  
-8. He was promoted to manager last month.  
-9. They watched a fascinating documentary about space.  
-10. The child built a sandcastle on the beach.  
-11. We need to submit the report by tomorrow.  
-12. She bought a beautiful dress for the party.  
-13. The teacher explained the lesson very well.  
-14. They are planning a road trip across the country.  
-15. The cat was sleeping on the sofa.  
-16. The museum had an exhibition of ancient artifacts.  
-17. She enjoys painting landscapes in her spare time.  
-18. The sun is shining brightly today.  
-19. He ordered a cup of coffee and a sandwich.  
-20. They found a hidden treasure in the cave.  
-21. She received a scholarship for her studies.  
-22. The hotel had a spectacular view of the ocean.  
-23. He fixed the broken chair in the living room.  
-24. The baby was laughing joyfully.  
-25. We visited a famous castle during our trip.  
-26. The students prepared for the final exam.  
-27. She wrote a heartfelt letter to her friend.  
-28. They planted flowers in the garden.  
-29. The restaurant serves the best pizza in town.  
-30. He lost his phone at the shopping mall.  
-31. The dog was barking loudly at the stranger.  
-32. She danced gracefully at the performance.  
-33. The airplane landed safely at the airport.  
-34. They built a new bridge over the river.  
-35. The doctor advised him to rest for a few days.  
-36. She found an interesting book at the library.  
-37. The mountain was covered with snow.  
-38. He completed the marathon in under four hours.  
-39. The artist painted a beautiful portrait.  
-40. She gave an inspiring speech at the event.  
-41. They watched the fireworks from the rooftop.  
-42. The river flows gently through the valley.  
-43. He was reading a novel by his favorite author.  
-44. She attended a yoga class in the morning.  
-45. The bakery sells freshly baked bread every day.  
-46. He discovered a shortcut to his office.  
-47. The football team won the championship.  
-48. She enjoyed the concert with her friends.  
-49. The hotel offers excellent customer service.  
-50. They visited a zoo and saw many exotic animals.  
 
 ---
 
@@ -973,189 +978,185 @@ You will be given a **speaking prompt** and must **speak for at least 30 seconds
 ### Practice Questions
 
 
-#### 1. Describe a memorable vacation you have taken.
-
+#### **1. Describe a memorable vacation you have taken.**
 - Where did you go?
 - Who did you travel with?
 - What activities did you do there?
 - Why was this vacation memorable?
 
-
-#### 2. Discuss your favorite book.
-
+#### **2. Discuss your favorite book.**
 - What is the title and who is the author?
 - What is the book about?
 - Why do you like it?
 - How did it impact you?
 
-#### 3.Talk about a skill you would like to learn.
+#### **3. Talk about a skill you would like to learn.**
+- What is the skill?
+- Why do you want to learn it?
+- How do you plan to acquire it?
+- How will it benefit you in the future?
 
-What is the skill?
-Why do you want to learn it?
-How do you plan to acquire it?
-How will it benefit you in the future?
-Describe a challenging project you worked on.
+#### **4. Describe a challenging project you worked on.**
+- What was the project about?
+- What challenges did you face?
+- How did you overcome them?
+- What was the outcome?
 
-What was the project about?
-What challenges did you face?
-How did you overcome them?
-What was the outcome?
-Discuss the importance of technology in education.
+#### **5. Discuss the importance of technology in education.**
+- How has technology changed the way we learn?
+- What are the benefits of using technology in the classroom?
+- Are there any drawbacks?
+- How do you see the future of technology in education?
 
-How has technology changed the way we learn?
-What are the benefits of using technology in the classroom?
-Are there any drawbacks?
-How do you see the future of technology in education?
-Describe a person who has influenced your life.
+#### **6. Describe a person who has influenced your life.**
+- Who is this person?
+- How did you meet them?
+- In what ways have they influenced you?
+- How has your life changed as a result?
 
-Who is this person?
-How did you meet them?
-In what ways have they influenced you?
-How has your life changed as a result?
-Talk about your favorite hobby.
+#### **7. Talk about your favorite hobby.**
+- What is the hobby?
+- How did you get started with it?
+- Why do you enjoy it?
+- How does it benefit you?
 
-What is the hobby?
-How did you get started with it?
-Why do you enjoy it?
-How does it benefit you?
-Discuss the impact of social media on society.
+#### **8. Discuss the impact of social media on society.**
+- How has social media changed the way people communicate?
+- What are the positive aspects of social media?
+- What are the negative aspects?
+- How can individuals use social media responsibly?
 
-How has social media changed the way people communicate?
-What are the positive aspects of social media?
-What are the negative aspects?
-How can individuals use social media responsibly?
-Describe a cultural tradition in your country.
+#### **9. Describe a cultural tradition in your country.**
+- What is the tradition?
+- How is it celebrated?
+- What is its significance?
+- How has it evolved over time?
 
-What is the tradition?
-How is it celebrated?
-What is its significance?
-How has it evolved over time?
-Talk about a time when you helped someone.
+#### **10. Talk about a time when you helped someone.**
+- Who did you help?
+- What was the situation?
+- How did you assist them?
+- How did it make you feel?
 
-Who did you help?
-What was the situation?
-How did you assist them?
-How did it make you feel?
-Discuss the advantages and disadvantages of online learning.
+#### **11. Discuss the advantages and disadvantages of online learning.**
+- What are the benefits of online education?
+- What challenges do students face with online learning?
+- How does it compare to traditional classroom learning?
+- What improvements can be made to online education?
 
-What are the benefits of online education?
-What challenges do students face with online learning?
-How does it compare to traditional classroom learning?
-What improvements can be made to online education?
-Describe a city you would like to visit.
+#### **12. Describe a city you would like to visit.**
+- What is the name of the city?
+- Why do you want to visit it?
+- What attractions or activities interest you there?
+- How do you plan to make this visit happen?
 
-What is the name of the city?
-Why do you want to visit it?
-What attractions or activities interest you there?
-How do you plan to make this visit happen?
-Talk about a significant achievement in your life.
+#### **13. Talk about a significant achievement in your life.**
+- What was the achievement?
+- What steps did you take to accomplish it?
+- What obstacles did you encounter?
+- How did achieving this impact you?
 
-What was the achievement?
-What steps did you take to accomplish it?
-What obstacles did you encounter?
-How did achieving this impact you?
-Discuss the role of art in society.
+#### **14. Discuss the role of art in society.**
+- How does art influence culture?
+- What are the different forms of art?
+- Why is art important to communities?
+- How can art be used to address social issues?
 
-How does art influence culture?
-What are the different forms of art?
-Why is art important to communities?
-How can art be used to address social issues?
-Describe a good experience of online shopping.
+#### **15. Describe a good experience of online shopping.**
+- When did it happen?
+- What did you buy?
+- How was the purchasing process?
+- Why was it a positive experience?
 
-When did it happen?
-What did you buy?
-How was the purchasing process?
-Why was it a positive experience?
-Talk about a time when you learned from a mistake.
+#### **16. Talk about a time when you learned from a mistake.**
+- What was the mistake?
+- How did it happen?
+- What did you learn from it?
+- How has it affected your actions since then?
 
-What was the mistake?
-How did it happen?
-What did you learn from it?
-How has it affected your actions since then?
-Discuss the importance of environmental conservation.
+#### **17. Discuss the importance of environmental conservation.**
+- Why is it important to protect the environment?
+- What are some ways individuals can contribute?
+- What role do governments play in conservation?
+- How can businesses support environmental efforts?
 
-Why is it important to protect the environment?
-What are some ways individuals can contribute?
-What role do governments play in conservation?
-How can businesses support environmental efforts?
-Describe your favorite movie or TV show.
+#### **18. Describe your favorite movie or TV show.**
+- What is the title?
+- What is it about?
+- Why do you like it?
+- How has it influenced you?
 
-What is the title?
-What is it about?
-Why do you like it?
-How has it influenced you?
-Talk about a time when you worked as part of a team.
+#### **19. Talk about a time when you worked as part of a team.**
+- What was the team's goal?
+- What was your role?
+- How did the team collaborate?
+- What was the outcome?
 
-What was the team's goal?
-What was your role?
-How did the team collaborate?
-What was the outcome?
-Discuss the benefits of learning a second language.
+#### **20. Discuss the benefits of learning a second language.**
+- How does it enhance cognitive abilities?
+- What opportunities can it provide?
+- How does it promote cultural understanding?
+- What challenges might one face in the process?
 
-How does it enhance cognitive abilities?
-What opportunities can it provide?
-How does it promote cultural understanding?
-What challenges might one face in the process?
-Describe a memorable event from your childhood.
+#### **21. Describe a memorable event from your childhood.**
+- What was the event?
+- How old were you?
+- Who was involved?
+- Why does it stand out in your memory?
 
-What was the event?
-How old were you?
-Who was involved?
-Why does it stand out in your memory?
-Talk about your favorite season of the year.
+#### **22. Talk about your favorite season of the year.**
+- Which season is it?
+- What do you enjoy about it?
+- Are there any special activities you do during this season?
+- How does it compare to other seasons?
 
-Which season is it?
-What do you enjoy about it?
-Are there any special activities you do during this season?
-How does it compare to other seasons?
-Discuss the impact of globalization on local cultures.
+#### **23. Discuss the impact of globalization on local cultures.**
+- How has globalization influenced your culture?
+- What are the positive effects?
+- What are the negative effects?
+- How can cultures preserve their uniqueness?
 
-How has globalization influenced your culture?
-What are the positive effects?
-What are the negative effects?
-How can cultures preserve their uniqueness?
-Describe a book or movie that changed your perspective.
+#### **24. Describe a book or movie that changed your perspective.**
+- What is the title?
+- What is it about?
+- How did it change your view?
+- Would you recommend it to others? Why or why not?
 
-What is the title?
-What is it about?
-How did it change your view?
-Would you recommend it to others? Why or why not?
-Talk about a healthy habit you practice.
+#### **25. Talk about a healthy habit you practice.**
+- What is the habit?
+- How did you develop it?
+- What benefits have you noticed?
+- How do you maintain it consistently?
 
-What is the habit?
-How did you develop it?
-What benefits have you noticed?
-How do you maintain it consistently?
-Discuss the role of music in your life.
+#### **26. Discuss the role of music in your life.**
+- What genres do you prefer?
+- How does music affect your mood?
+- Do you play any instruments or sing?
+- How has your taste in music evolved over time?
 
-What genres do you prefer?
-How does music affect your mood?
-Do you play any instruments or sing?
-How has your taste in music evolved over time?
-Describe a time when you faced a difficult decision.
+#### **27. Describe a time when you faced a difficult decision.**
+- What was the decision about?
+- What options did you have?
+- How did you make your choice?
+- What was the outcome?
 
-What was the decision about?
-What options did you have?
-How did you make your choice?
-What was the outcome?
-Talk about the importance of family in your culture.
+#### **28. Talk about the importance of family in your culture.**
+- How is family defined in your culture?
+- What roles do family members play?
+- How are family gatherings typically conducted?
+- How has the concept of family changed over time?
 
-How is family defined in your culture?
-What roles do family members play?
-How are family gatherings typically conducted?
-How has the concept of family changed over time?
-Discuss the advantages of urban living.
+#### **29. Discuss the advantages of urban living.**
+- What amenities are commonly available in cities?
+- How does urban life offer convenience?
+- What cultural opportunities exist in urban areas?
+- Are there any drawbacks to city living?
 
-What amenities are commonly available in cities?
-How does urban life offer convenience?
-What cultural opportunities exist in urban areas?
-Are there any drawbacks to city living?
-Describe a technological gadget you find useful.
-
-What is the gadget?
-How does it work?
-How has it improved your daily life?
-Are there any limitations to its use?
+#### **30. Describe a technological gadget you find useful.**
+- What is the gadget?
+- How does it work?
+- How has it improved your daily life?
+- Are there any limitations to its use?
 
 
 #### **31. Talk about a time when you volunteered for a cause.**
@@ -1277,3 +1278,171 @@ Are there any limitations to its use?
 - Why is it important to you?
 - What steps are you taking to achieve it?
 - How will achieving this goal impact your life?
+
+#### Answer
+
+##### 1. Describe a memorable vacation you have taken.
+One of my most memorable vacations was a trip to Paris last summer. I went there with my best friend. We visited famous places like the Eiffel Tower and the Louvre Museum. We also enjoyed local foods and walked around the beautiful streets. This vacation was special because it was my first time in Europe, and I loved experiencing a new culture.
+
+##### 2. Discuss your favorite book.
+My favorite book is "To Kill a Mockingbird" by Harper Lee. The story is about a young girl named Scout growing up in the southern United States. It deals with serious issues like racism and justice. I like this book because it teaches important lessons about empathy and understanding. Reading it made me think deeply about human behavior and fairness.
+
+##### 3. Talk about a skill you would like to learn.
+I would like to learn how to play the guitar. Music has always interested me, and playing an instrument seems enjoyable. I plan to start by taking online lessons and practicing regularly. Learning this skill will allow me to express myself creatively and perhaps play songs for my friends and family in the future.
+
+##### 4. Describe a challenging project you worked on.
+In my final year of college, I worked on a group project to develop a business plan for a startup. The project was challenging because we had to research the market, create financial projections, and develop a marketing strategy. We faced difficulties in coordinating our schedules and dividing tasks. However, by communicating effectively and supporting each other, we completed the project successfully. This experience taught me the importance of teamwork and perseverance.
+
+##### 5. Discuss the importance of technology in education.
+Technology plays a crucial role in education today. It has changed the way we learn by providing access to a vast amount of information online. Students can benefit from interactive learning tools and virtual classrooms. However, there are drawbacks, such as the potential for distraction and the digital divide among students. In the future, I believe technology will continue to make education more accessible and personalized.
+
+##### 6. Describe a person who has influenced your life.
+My high school teacher, Mr. Smith, has greatly influenced my life. I met him during my sophomore year. He encouraged me to pursue my interest in science and always believed in my abilities. His support and guidance motivated me to work hard and eventually choose a career in engineering. I am grateful for his positive impact on my life.
+
+##### 7. Talk about your favorite hobby.
+My favorite hobby is painting. I started painting when I was a child, using watercolors and simple sketches. I enjoy it because it allows me to express my feelings and creativity. Painting helps me relax and forget about stress. Over the years, I have improved my skills and even participated in local art exhibitions.
+
+##### 8. Discuss the impact of social media on society.
+Social media has significantly changed how people communicate. It allows us to connect with friends and family instantly, share updates, and access news. The positive aspects include staying connected and spreading information quickly. However, there are negative aspects, such as the spread of misinformation and reduced face-to-face interactions. Individuals should use social media responsibly by verifying information and limiting screen time.
+
+##### 9. Describe a cultural tradition in your country.
+In my country, we celebrate the Lunar New Year, known as Tet. It is a time when families gather to honor ancestors and welcome the new year. People clean their homes, prepare special foods, and give lucky money to children. This tradition is significant because it emphasizes family bonds and cultural heritage. Over time, while some practices have modernized, the core values remain unchanged.
+
+##### 10. Talk about a time when you helped someone.
+Last winter, I helped an elderly neighbor shovel snow from her driveway. She was unable to do it herself due to health issues. I spent about an hour clearing the snow and making a safe path to her door. She was very grateful, and it made me feel happy to assist her. This experience reminded me of the importance of community and kindness.
+
+##### 11. Discuss the advantages and disadvantages of online learning.
+Online learning offers several benefits. It provides flexibility, allowing students to study at their own pace and schedule. It also gives access to a wide range of courses from different institutions. However, challenges include a lack of face-to-face interaction, which can lead to feelings of isolation, and the need for self-discipline to stay motivated. Compared to traditional classroom learning, online education requires students to be more proactive. To improve online learning, institutions can incorporate interactive elements and provide support systems for students.
+
+##### 12. Describe a city you would like to visit.
+I would like to visit Tokyo, the capital city of Japan. The city is known for its blend of traditional culture and modern technology. I am interested in visiting attractions like the historic temples, experiencing the local cuisine, and exploring the bustling shopping districts. To make this visit happen, I plan to save money and learn basic Japanese phrases to enhance my experience.
+
+##### 13. Talk about a significant achievement in your life.
+Graduating from university was a significant achievement for me. I worked hard for four years, balancing studies and part-time jobs. There were times when managing deadlines and coursework felt overwhelming. However, my dedication paid off when I received my diploma. This accomplishment boosted my confidence and opened doors to my current career.
+
+##### 14. Discuss the role of art in society.
+Art has a profound influence on culture. It comes in various forms, such as painting, music, and dance, each reflecting different aspects of human experience. Art is important to communities because it fosters creativity, preserves history, and brings people together. It can also be used to address social issues by raising awareness and inspiring change.
+
+##### 15. Describe a good experience of online shopping.
+A few months ago, I had a positive online shopping experience. I needed a new pair of running shoes and decided to purchase them from a reputable e-commerce site. The website was easy to navigate, and I found the exact model I wanted. The purchasing process was straightforward, and the shoes arrived promptly in perfect condition. This experience was positive because it was convenient, efficient, and met my expectations.
+
+##### 16. Talk about a time when you learned from a mistake.
+Once, I missed an important meeting because I failed to note the correct time. This happened because I relied on memory instead of checking my calendar. From this mistake, I learned the importance of organizing my schedule and setting reminders. Since then, I always double-check my appointments, which has helped me become more reliable.
+
+##### 17. Discuss the importance of environmental conservation.
+Protecting the environment is crucial for the health of our planet. Individuals can contribute by reducing waste, recycling, and conserving energy. Governments play a role by creating policies that protect natural resources and promote sustainable practices. Businesses can support environmental efforts by adopting eco-friendly operations. Together, these actions help preserve the environment for future generations.
+
+##### **18. Describe your favorite movie or TV show.**
+
+My favorite TV show is *Friends*. It is a comedy series about a group of six friends living in New York City. The show follows their personal and professional lives, filled with humor, relationships, and challenges. I enjoy it because it has relatable characters, funny dialogues, and heartwarming moments. 
+
+Each episode is entertaining, and it teaches valuable lessons about friendship, love, and perseverance. The chemistry between the characters makes it even more enjoyable. Watching *Friends* always makes me laugh and helps me relax after a long day. I recommend it to anyone who enjoys comedy and lighthearted entertainment.
+
+##### **19. Talk about a time when you worked as part of a team.**
+
+Working as part of a team can be both challenging and rewarding. I remember working on a group project during university. Our goal was to develop a business proposal. My role was to research market trends and analyze data. At first, we struggled with communication, but we solved this by setting clear deadlines and meeting regularly. In the end, we successfully completed the project and received positive feedback. This experience taught me the value of teamwork and collaboration.
+
+##### **20. Discuss the benefits of learning a second language.**
+
+Learning a second language has many advantages. First, it improves communication skills and allows people to connect with different cultures. Second, it can enhance career opportunities as many jobs require bilingual employees. Additionally, learning a new language helps with brain development and memory. Although it takes time and effort, the benefits of speaking another language make it a valuable skill.
+
+##### **21. Describe a memorable event from your childhood.**
+
+One of my most memorable childhood events was my tenth birthday party. My parents organized a surprise celebration with all my friends. We played games, had a cake, and received presents. I still remember the excitement of the day. It was special because I felt loved and happy. Looking back, this memory reminds me of the joy of simple moments.
+
+##### **22. Talk about your favorite season of the year.**
+
+My favorite season is spring. During spring, the weather is warm but not too hot, and flowers bloom everywhere. I enjoy spending time outside, going for walks, and seeing nature come back to life. Another reason I love spring is that it brings many festivals and celebrations. Spring always makes me feel refreshed and happy.
+
+##### **23. Discuss the impact of globalization on local cultures.**
+
+Globalization has changed local cultures in many ways. It has allowed people to experience different foods, music, and traditions from other countries. However, it has also led to the loss of some traditional practices. While globalization has many benefits, it is important to preserve local customs and values. This way, we can enjoy cultural diversity without losing our unique identities.
+
+##### **24. Describe a book or movie that changed your perspective.**
+
+A movie that changed my perspective is "The Pursuit of Happyness." It tells the story of a man who struggles to achieve his dreams despite many hardships. Watching this movie taught me the importance of hard work, perseverance, and never giving up. It inspired me to stay motivated and keep working towards my goals, no matter how difficult the journey.
+
+##### **25. Talk about a healthy habit you practice.**
+
+One healthy habit I practice is drinking plenty of water every day. Staying hydrated helps keep my body and mind active. I always carry a water bottle with me to make sure I drink enough. This simple habit improves my skin, digestion, and energy levels. Small lifestyle changes like this can have a big impact on overall health.
+
+##### **26. Discuss the role of music in your life.**
+
+Music plays an important role in my life. It helps me relax, focus, and even express my emotions. I enjoy listening to different genres, but my favorite is classical music. I also like playing the guitar in my free time. Music has the power to bring people together and create unforgettable memories.
+
+##### **27. Describe a time when you faced a difficult decision.**
+
+A difficult decision I faced was choosing between two job offers. One offered a higher salary, but the other provided better career growth. I took time to consider my long-term goals before making a decision. In the end, I chose the job that would help me improve my skills and gain experience. Looking back, I am happy with my choice.
+
+##### **28. Talk about the importance of family in your culture.**
+
+Family is very important in my culture. People believe in strong family bonds and support each other in times of need. Family gatherings are common, especially during festivals and special occasions. Elders are respected, and their advice is valued. The sense of togetherness in families makes life more meaningful.
+
+##### **29. Discuss the advantages of urban living.**
+
+Living in a city has many advantages. There are better job opportunities, modern facilities, and entertainment options. Public transport makes it easy to move around, and people have access to quality healthcare and education. However, city life can also be stressful due to traffic and high living costs. Overall, urban living is convenient and exciting.
+
+##### **30. Describe a technological gadget you find useful.**
+
+One technological gadget I find useful is my smartphone. It helps me stay connected with my family and friends, access important information, and manage my daily tasks. I also use it for entertainment, such as listening to music and watching videos. Smartphones have made life more convenient and efficient.
+
+##### **31. Talk about a time when you volunteered for a cause.**
+
+I once volunteered at a local animal shelter. My job was to feed the animals, clean their spaces, and help with adoption events. It was a fulfilling experience because I love animals, and I felt good knowing I was making a difference. Volunteering also taught me responsibility and teamwork. I hope to continue volunteering in the future.
+
+##### **32. Describe a historical event that interests you.**
+One historical event that interests me is the moon landing in 1969. It was a major achievement in space exploration when NASA's Apollo 11 mission successfully landed astronauts on the moon. This event showed the power of human innovation and teamwork. The famous words, "That's one small step for man, one giant leap for mankind," still inspire people today.
+
+##### **33. Discuss the role of sports in society.**
+Sports play a vital role in society by promoting physical health, teamwork, and discipline. They bring people together, whether as players or spectators, and create a sense of unity. International events like the Olympics foster cultural exchange and national pride. However, some sports can be competitive and stressful, so balance is necessary.
+
+##### **34. Talk about a famous person you admire.**
+I admire Elon Musk for his contributions to technology and space exploration. He is known for creating Tesla and SpaceX, companies that aim to make the world more advanced. His vision for space travel and sustainable energy is inspiring. I appreciate his ability to take risks and push boundaries for future innovations.
+
+##### **35. Describe an invention that has changed the world.**
+The internet is one of the most important inventions in history. It has changed the way people communicate, work, and learn. Information is now easily accessible, and businesses can operate worldwide. While the internet has many benefits, people should also use it responsibly to avoid misinformation and privacy risks.
+
+##### **36. Discuss the impact of the internet on communication.**
+The internet has revolutionized communication by making it instant and global. People can connect through emails, video calls, and social media platforms. This has strengthened personal and professional relationships. However, excessive online communication can reduce face-to-face interactions, which are still important for building strong connections.
+
+##### **37. Talk about a pet or animal you like.**
+I love dogs because they are friendly and loyal. They make great companions and can help people feel less lonely. Dogs also help in security and therapy services. I enjoy playing with dogs and taking care of them. They bring happiness to many people's lives.
+
+##### **38. Describe a restaurant or café you enjoy visiting.**
+One of my favorite cafés is a small coffee shop near my house. It has a cozy atmosphere, great coffee, and delicious pastries. I like going there to read or meet friends. The staff is friendly, and the place feels relaxing. It's my go-to spot for a peaceful break.
+
+##### **39. Discuss the importance of work-life balance.**
+Work-life balance is essential for both productivity and personal well-being. When people overwork, they become stressed and tired. Taking time to relax and spend with family improves happiness and mental health. Employers should support work-life balance to create a positive work environment.
+
+##### **40. Talk about a time you tried something new.**
+Last year, I tried cooking a new dish for the first time. I wanted to learn how to make homemade pasta. At first, it was challenging, but after following a recipe carefully, I succeeded. It was a great experience because I learned a new skill and enjoyed the meal with my family.
+
+##### **41. Describe an ideal weekend for you.**
+My ideal weekend includes relaxation and fun activities. I would start with a late breakfast, then go for a walk or meet friends. Watching a good movie or reading a book would make it even better. Spending quality time with family and getting enough rest would make it a perfect weekend.
+
+##### **42. Discuss the impact of tourism on a country’s economy.**
+Tourism is important for a country’s economy because it creates jobs and supports local businesses. Tourists spend money on hotels, food, and attractions, helping the economy grow. However, too much tourism can harm the environment. Governments should focus on sustainable tourism to protect nature while benefiting the economy.
+
+##### **43. Talk about a subject you enjoyed studying.**
+I really enjoyed studying history in school. Learning about different civilizations, events, and leaders was fascinating. It helped me understand how the past shapes the present. I still like reading history books and watching documentaries to learn more about world history.
+
+##### **44. Describe an interesting tradition in your country.**
+In my country, we celebrate New Year’s Eve with family gatherings and fireworks. People prepare special meals and exchange good wishes for the coming year. It’s a time for reflection and setting new goals. The tradition brings families closer and creates a joyful atmosphere.
+
+##### **45. Discuss the benefits of playing video games.**
+Playing video games can improve problem-solving skills and hand-eye coordination. Some games also teach strategy and teamwork. However, playing too much can be unhealthy. It’s important to balance gaming with other activities like studying, exercising, and spending time with friends.
+
+##### **46. Talk about a teacher or mentor who inspired you.**
+One of my favorite teachers was my math teacher in high school. She made learning fun and always encouraged us to do our best. Her positive attitude and support motivated me to enjoy mathematics. Because of her, I developed confidence in my academic abilities.
+
+##### **47. Describe your dream job.**
+My dream job is to be a travel writer. I love exploring new places and sharing experiences through writing. It would allow me to see the world and meet interesting people. I hope to turn my passion for travel and storytelling into a career one day.
+
+##### **48. Discuss the importance of healthy eating.**
+Eating healthy is important for maintaining good health. A balanced diet provides the body with essential nutrients. Eating fresh fruits, vegetables, and protein helps keep energy levels high. Avoiding too much junk food also prevents health problems. Healthy eating leads to a better quality of life.
+
+##### **49. Talk about a festival or holiday that is special to you.**
+Christmas is my favorite holiday. Families come together to celebrate, exchange gifts, and enjoy delicious food. The festive decorations and music create a joyful atmosphere. I love spending this time with my loved ones and making special memories.
+
+##### **50. Discuss a future goal you have.**
+One of my future goals is to learn a new language. I believe knowing multiple languages helps in communication and career opportunities. I plan to take online courses and practice speaking regularly. Achieving this goal will allow me to connect with more people around the world.
